@@ -1,0 +1,25 @@
+div{
+    margin: 100px;
+    align-content: center;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    box-shadow: 4px 4px 1px red;
+}
+button{
+    padding: 5px;
+    background-color: pink;
+    border: 1px solid rgb(24, 23, 23);
+    box-shadow: 1px 1px 1px black;
+}
+input{
+    box-shadow: 1px 1px 1px red;
+
+}
+h1{
+    background-color: rgb(255, 85, 164);      
+    
+}
+span{
+    box-shadow: 2px 2px 1px red;
+}
